@@ -7,7 +7,7 @@ excerpt: "In this paper, we introduce StraightTrack, a mixed reality (MR) system
 thumbnails:
 video:
 # date: # Date
-venue: 'AE-CAI 2024'
+venue: 'Wiley Health Technology Letters, 2024. Special Issue: MICCAI AE-CAI 2024'
 slidesurl: 
 paperurl: 'https://arxiv.org/abs/2410.01143'
 citation: 
