@@ -5,11 +5,14 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About Me"
+    url: /
+
   - title: "CV"
     url: /files/YuChunKu_CV.pdf
     
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Projects"
     url: /portfolio/

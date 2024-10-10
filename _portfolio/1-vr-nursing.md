@@ -1,6 +1,6 @@
 ---
 title: "High-Fidelity Virtual Reality Clinical Training System"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png' style='padding: 30px 0 0 0;'>"
+excerpt: "Coming soon...<br/><img src='/images/vr-training.png' style='padding: 30px 0 0 0;'>"
 collection: portfolio
 ---
 
