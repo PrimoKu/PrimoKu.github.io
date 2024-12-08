@@ -27,7 +27,7 @@ Publications
 - **Evaluating the Effectiveness of Visual Guidance for Out-of-View Object Localization using Mixed Reality Head-Mounted Displays**  
   **Yu-Chun Ku**, Alejandro Martin-Gomez  
   *The 2024 IEEE International Symposium on Mixed and Augmented Reality*  
-  [Paper](/files/evaluating-JND.pdf)  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10765213)  
 
   ![Evaluating JND Image](/images/evaluate-JND.png)  
 

@@ -7,7 +7,7 @@ excerpt: "In this work, we explore how different visualization techniques for gu
 # date: 
 venue: 'The 2024 IEEE International Symposium on Mixed and Augmented Reality'
 slidesurl:
-paperurl: '/files/evaluating-JND.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10765213'
 citation:
 ---
 
