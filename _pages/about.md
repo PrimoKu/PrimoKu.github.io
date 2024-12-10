@@ -34,8 +34,8 @@ I am a member of the Advanced Robotics and Computationally Augmented Environment
 
   <ul>
     <div style="position: relative;">
-      <div id="publication-outofview-vis" style="position: absolute; top: -120px; visibility: hidden;"></div>
-      <li id="publication-outofview-localization">
+      <div id="publication-outofview-localization" style="position: absolute; top: -120px; visibility: hidden;"></div>
+      <li>
         <strong>Evaluating the Effectiveness of Visual Guidance for Out-of-View Object Localization using Mixed Reality Head-Mounted Displays</strong><br>
         <strong>Yu-Chun Ku</strong>, Alejandro Martin-Gomez<br>
         <em>The 2024 IEEE International Symposium on Mixed and Augmented Reality</em><br>
