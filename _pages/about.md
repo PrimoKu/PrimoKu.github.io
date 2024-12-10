@@ -18,7 +18,7 @@ Publications
   [Paper](https://arxiv.org/abs/2410.01143)  
 
   <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
-    <source src="/videos/straighttrack_demo.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/straighttrack_demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
