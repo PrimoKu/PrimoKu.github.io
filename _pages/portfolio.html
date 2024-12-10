@@ -9,6 +9,8 @@ author_profile: true
 
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <div id="{{ post.title | slugify }}">
+    {% include archive-single.html %}
+  </div>
 {% endfor %}
 
