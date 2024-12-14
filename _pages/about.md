@@ -6,9 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Robotics Master's student at Johns Hopkins University. I am passionate about leveraging emerging technologies like mixed reality and digital twins to advance healthcare, particularly in interventional procedures. My work focuses on integrating computer-assisted systems to enhance surgical precision and efficiency. Currently, my research includes developing high-fidelity virtual reality system for clinical training and utilizing room-scale digital twin simulation to develop machine learning algorithms.
+I am a Robotics Master's student at Johns Hopkins University. I am passionate about about leveraging emerging technologies like digital twins, robotics, and mixed reality to address critical challenges in various domains. My research focuses on developing intelligent, computer-assisted systems to enhance precision, efficiency, and decision-making in real-world applications. I am a member of the Advanced Robotics and Computationally Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu)) research group, led by Prof. [Mathias Unberath](https://mathiasunberath.github.io).
 
-I am a member of the Advanced Robotics and Computationally Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu)) research group, led by [Mathias Unberath](https://mathiasunberath.github.io). In 2020, I earned a B.A. in Mechatronics Engineering from the National Taiwan Normal University.
+Currently, I am working on a Mixed Reality platform integrated with NVIDIA Isaac Sim for scalable robotic data generation, and applying imitation learning algorithms for medical robotics to enable autonomous surgical assistance.
+
+In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing.psu.edu/directory/pandian/) to develop a high-fidelity virtual reality (VR) system for clinical training, aimed at standardizing procedural workflows and improving training outcomes in healthcare.
+
+
 
 <section>
   <h1>Publications</h1>
