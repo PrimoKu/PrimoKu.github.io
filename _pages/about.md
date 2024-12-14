@@ -20,10 +20,10 @@ I am a member of the Advanced Robotics and Computationally Augmented Environment
         Junxiang Wang, Juan Antonio Barragan, Hisashi Ishida, Jingkai Guo, <strong>Yu-Chun Ku</strong>, Peter Kazanzides.<br>
         <em>The 2025 International Symposium on Medical Robotics.</em> In Review <br>
         <a href="https://arxiv.org/abs/2411.13449" target="_blank">Paper</a><br>
-        <!-- <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
-          <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/straighttrack_demo.mp4" type="video/mp4">
+        <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
+          <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/dvrk_comm_loss_demo.mp4" type="video/mp4">
           Your browser does not support the video tag.
-        </video> -->
+        </video>
         <!-- <p>
           In this paper, we introduce a digital twin system designed to mitigate disruptions caused by communication outages in telesurgery. The system integrates with the da Vinci Research Kit and leverages a dynamic simulation environment to replicate the surgical robot and environment. During communication outages, the surgeon continues operating on the digital twin, with buffered commands replayed to the real robot upon communication restoration. This approach reduces task completion time by 23% and provides a seamless user experience, enabling precise and efficient remote surgical operations even in challenging communication conditions.
         </p> -->
