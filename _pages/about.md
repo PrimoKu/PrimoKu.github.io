@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Robotics Master's student at Johns Hopkins University. I am passionate about about leveraging emerging technologies like digital twins, robotics, and mixed reality to address critical challenges in various domains. My research focuses on developing intelligent, computer-assisted systems to enhance precision, efficiency, and decision-making in real-world applications. I am a member of the Advanced Robotics and Computationally Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu)) research group, led by Prof. [Mathias Unberath](https://mathiasunberath.github.io).
+I am a Robotics Master's student at Johns Hopkins University. I am passionate about about leveraging emerging technologies like digital twins, robotics, and mixed reality to address critical challenges in various domains. My research focuses on developing intelligent, computer-assisted systems to enhance precision, efficiency, and decision-making in real-world applications. I am a member of the Advanced Robotics and Computationally Augmented Environments (<a href="https://arcade.cs.jhu.edu" target="_blank" rel="noopener noreferrer">ARCADE</a>) research group, led by Prof. <a href="https://mathiasunberath.github.io" target="_blank" rel="noopener noreferrer">Mathias Unberath</a>.
 
 Currently, I am working on a Mixed Reality platform integrated with NVIDIA Isaac Sim for scalable robotic data generation, and applying imitation learning algorithms for medical robotics to enable autonomous surgical assistance.
 
-In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing.psu.edu/directory/pandian/) to develop a high-fidelity virtual reality (VR) system for clinical training, aimed at standardizing procedural workflows and improving training outcomes in healthcare.
+In addition, I am collaborating with Prof. <a href="https://www.nursing.psu.edu/directory/pandian/" target="_blank" rel="noopener noreferrer">Vinciya Pandian</a> to develop a high-fidelity virtual reality (VR) system for clinical training, aimed at standardizing procedural workflows and improving training outcomes in healthcare.
 
 
 
