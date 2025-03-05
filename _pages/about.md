@@ -16,13 +16,32 @@ In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing
 
 <section>
   <h1>Publications</h1>
+  (* indicates equal contribution)
+  <ul>
+    <div style="position: relative;">
+      <div id="publication-dart-vinci" style="position: absolute; top: -120px; visibility: hidden;"></div>
+      <li>
+        <strong><em>dARt Vinci: </em>Egocentric Data Collection for Surgical Robot Learning at Scale</strong><br>
+        Yihao Liu*, <strong>Yu-Chun Ku*</strong>, Jiaming Zhang*, Hao Ding, Peter Kazanzides, Mehran Armand.<br>
+        <em>International Conference on Intelligent Robots and Systems (IROS), 2025.</em> In Review.<br>
+        <!-- <a href="https://arxiv.org/abs/2411.13449" target="_blank">Paper</a><br> -->
+        <!-- <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
+          <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/dvrk_comm_loss_demo.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video> -->
+        <!-- <p>
+          In this paper, we introduce a digital twin system designed to mitigate disruptions caused by communication outages in telesurgery. The system integrates with the da Vinci Research Kit and leverages a dynamic simulation environment to replicate the surgical robot and environment. During communication outages, the surgeon continues operating on the digital twin, with buffered commands replayed to the real robot upon communication restoration. This approach reduces task completion time by 23% and provides a seamless user experience, enabling precise and efficient remote surgical operations even in challenging communication conditions.
+        </p> -->
+      </li>
+    </div>
+  </ul>
   <ul>
     <div style="position: relative;">
       <div id="publication-dvrk-commloss" style="position: absolute; top: -120px; visibility: hidden;"></div>
       <li>
         <strong>A Digital Twin for Telesurgery under Intermittent Communication</strong><br>
         Junxiang Wang, Juan Antonio Barragan, Hisashi Ishida, Jingkai Guo, <strong>Yu-Chun Ku</strong>, Peter Kazanzides.<br>
-        <em>The 2025 International Symposium on Medical Robotics.</em><br>
+        <em>International Symposium on Medical Robotics (ISMR), 2025.</em><br>
         <a href="https://arxiv.org/abs/2411.13449" target="_blank">Paper</a><br>
         <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
           <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/dvrk_comm_loss_demo.mp4" type="video/mp4">
@@ -39,7 +58,7 @@ In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing
       <div id="publication-straighttrack" style="position: absolute; top: -120px; visibility: hidden;"></div>
       <li>
         <strong>StraightTrack: Towards Mixed Reality Navigation System for Percutaneous K-wire Insertion</strong><br>
-        Han Zhang, Benjamin D. Kileen, <strong>Yu-Chun Ku</strong>, Mathias Unberath, et al.<br>
+        Han Zhang, Benjamin D. Kileen, <strong>Yu-Chun Ku</strong>, Lalithkumar Seenivasan, Yuxuan Zhao, Mingxu Liu, Yue Yang, Suxi Gu, Alejandro Martin-Gomez, Russell H. Taylor, Greg Osgood, Mathias Unberath.<br>
         <em>Wiley Health Technology Letters, 2024. Special Issue: MICCAI AE-CAI 2024</em><br>
         <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/htl2.12103" target="_blank">Paper</a><br>
         <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
@@ -57,8 +76,8 @@ In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing
       <div id="publication-outofview-localization" style="position: absolute; top: -120px; visibility: hidden;"></div>
       <li>
         <strong>Evaluating the Effectiveness of Visual Guidance for Out-of-View Object Localization using Mixed Reality Head-Mounted Displays</strong><br>
-        <strong>Yu-Chun Ku</strong>, Alejandro Martin-Gomez<br>
-        <em>The 2024 IEEE International Symposium on Mixed and Augmented Reality</em><br>
+        <strong>Yu-Chun Ku</strong>, Alejandro Martin-Gomez.<br>
+        <em>International Symposium on Mixed and Augmented Reality (ISMAR), 2024</em><br>
         <a href="https://ieeexplore.ieee.org/abstract/document/10765213" target="_blank">Paper</a><br>
         <img src="/images/evaluate-JND.png" alt="Evaluating JND Image" style="width: 100%; max-width: 725px;">
         <!-- <p>
