@@ -22,7 +22,7 @@ In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing
       <li>
         <strong>A Digital Twin for Telesurgery under Intermittent Communication</strong><br>
         Junxiang Wang, Juan Antonio Barragan, Hisashi Ishida, Jingkai Guo, <strong>Yu-Chun Ku</strong>, Peter Kazanzides.<br>
-        <em>The 2025 International Symposium on Medical Robotics.</em> In Review <br>
+        <em>The 2025 International Symposium on Medical Robotics.</em><br>
         <a href="https://arxiv.org/abs/2411.13449" target="_blank">Paper</a><br>
         <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
           <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/dvrk_comm_loss_demo.mp4" type="video/mp4">
@@ -41,7 +41,7 @@ In addition, I am collaborating with Prof. [Vinciya Pandian](https://www.nursing
         <strong>StraightTrack: Towards Mixed Reality Navigation System for Percutaneous K-wire Insertion</strong><br>
         Han Zhang, Benjamin D. Kileen, <strong>Yu-Chun Ku</strong>, Mathias Unberath, et al.<br>
         <em>Wiley Health Technology Letters, 2024. Special Issue: MICCAI AE-CAI 2024</em><br>
-        <a href="https://arxiv.org/abs/2410.01143" target="_blank">Paper</a><br>
+        <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/htl2.12103" target="_blank">Paper</a><br>
         <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
           <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/straighttrack_demo.mp4" type="video/mp4">
           Your browser does not support the video tag.
