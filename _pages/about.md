@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Robotics Master's student at Johns Hopkins University. I am passionate about about leveraging emerging technologies like digital twins, robotics, and mixed reality to address critical challenges in various domains. My research focuses on developing intelligent, computer-assisted systems to enhance precision, efficiency, and decision-making in real-world applications. I am a member of the Advanced Robotics and Computationally Augmented Environments (<a href="https://arcade.cs.jhu.edu" target="_blank" rel="noopener noreferrer">ARCADE</a>) research group, led by Prof. <a href="https://mathiasunberath.github.io" target="_blank" rel="noopener noreferrer">Mathias Unberath</a>.
+I am a Robotics Master's student at Johns Hopkins University. I am passionate about about leveraging emerging technologies like digital twins, robotics, and mixed reality to address critical challenges in various domains. My research focuses on developing intelligent, computer-assisted systems to enhance precision, efficiency, and decision-making in real-world applications. 
+<!-- I am a member of the Advanced Robotics and Computationally Augmented Environments (<a href="https://arcade.cs.jhu.edu" target="_blank" rel="noopener noreferrer">ARCADE</a>) research group, led by Prof. <a href="https://mathiasunberath.github.io" target="_blank" rel="noopener noreferrer">Mathias Unberath</a>. -->
 
-Currently, I am working on a Mixed Reality platform integrated with NVIDIA Isaac Sim for scalable robotic data generation, and applying imitation learning algorithms for medical robotics to enable autonomous surgical assistance.
+Currently, I am working on a Mixed Reality platform integrated with NVIDIA Isaac Sim for scalable robotic data generation. Additionally, under the guidance of Prof. <a href="https://mathiasunberath.github.io" target="_blank" rel="noopener noreferrer">Mathias Unberath</a>, I am applying imitation learning algorithms in medical robotics to enable autonomous surgical assistance.
 
-In addition, I am collaborating with Prof. <a href="https://www.nursing.psu.edu/directory/pandian/" target="_blank" rel="noopener noreferrer">Vinciya Pandian</a> to develop a high-fidelity virtual reality (VR) system for clinical training, aimed at standardizing procedural workflows and improving training outcomes in healthcare.
+Previously, I was advised by Prof. <a href="https://engineering.uark.edu/electrical-engineering-computer-science/electrical-engineering-faculty/uid/am471/name/Alejandro+Martin+Gomez/" target="_blank" rel="noopener noreferrer">Alejandro Martin-Gomez</a>, where I worked on visualization techniques in Augmented Reality, and advised by Prof. <a href="https://engineering.jhu.edu/faculty/peter-kazanzides/" target="_blank" rel="noopener noreferrer">Peter Kazanzides</a>, where I explored leveraging digital twin environments to mitigate the impact of communication loss during teleoperation. In addition, I have been collaborating with Prof. <a href="https://www.nursing.psu.edu/directory/pandian/" target="_blank" rel="noopener noreferrer">Vinciya Pandian</a> to develop a high-fidelity virtual reality (VR) system for clinical training, aimed at standardizing procedural workflows and improving training outcomes in healthcare.
 
 
 
@@ -24,7 +25,7 @@ In addition, I am collaborating with Prof. <a href="https://www.nursing.psu.edu/
         <strong><em>dARt Vinci: </em>Egocentric Data Collection for Surgical Robot Learning at Scale</strong><br>
         Yihao Liu*, <strong>Yu-Chun Ku*</strong>, Jiaming Zhang*, Hao Ding, Peter Kazanzides, Mehran Armand.<br>
         <em>International Conference on Intelligent Robots and Systems (IROS), 2025.</em> In Review.<br>
-        <!-- <a href="https://arxiv.org/abs/2411.13449" target="_blank">Paper</a><br> -->
+        <a href="https://arxiv.org/abs/2503.05646" target="_blank">Paper</a><br>
         <!-- <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
           <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/dvrk_comm_loss_demo.mp4" type="video/mp4">
           Your browser does not support the video tag.
