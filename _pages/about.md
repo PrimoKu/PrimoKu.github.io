@@ -27,10 +27,10 @@ Previously, I was advised by Prof. <a href="https://engineering.uark.edu/electri
         <!-- <em>International Conference on Intelligent Robots and Systems (IROS), 2025.</em>  -->
         In Review.<br>
         <a href="https://arxiv.org/abs/2503.05646" target="_blank">Paper</a><br>
-        <!-- <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
-          <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/dvrk_comm_loss_demo.mp4" type="video/mp4">
+        <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
+          <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/IROS-DartVinci.mp4" type="video/mp4">
           Your browser does not support the video tag.
-        </video> -->
+        </video>
         <!-- <p>
           In this paper, we introduce a digital twin system designed to mitigate disruptions caused by communication outages in telesurgery. The system integrates with the da Vinci Research Kit and leverages a dynamic simulation environment to replicate the surgical robot and environment. During communication outages, the surgeon continues operating on the digital twin, with buffered commands replayed to the real robot upon communication restoration. This approach reduces task completion time by 23% and provides a seamless user experience, enabling precise and efficient remote surgical operations even in challenging communication conditions.
         </p> -->
