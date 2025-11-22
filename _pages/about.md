@@ -24,8 +24,7 @@ Previously, I was advised by Prof. <a href="https://engineering.uark.edu/electri
       <li>
         <strong><em>dARt Vinci: </em>Egocentric Data Collection for Surgical Robot Learning at Scale</strong><br>
         Yihao Liu*, <strong>Yu-Chun Ku*</strong>, Jiaming Zhang*, Hao Ding, Peter Kazanzides, Mehran Armand.<br>
-        <!-- <em>International Conference on Intelligent Robots and Systems (IROS), 2025.</em>  -->
-        In Review.<br>
+        <em>International Conference on Intelligent Robots and Systems (IROS), 2025.</em><br>
         <a href="https://arxiv.org/abs/2503.05646" target="_blank">Paper</a><br>
         <video width="725" height="450" style="padding: 0 0 15px 0;" controls autoplay muted loop>
           <source src="https://media.githubusercontent.com/media/PrimoKu/PrimoKu.github.io/main/videos/IROS-DartVinci.mp4" type="video/mp4">
